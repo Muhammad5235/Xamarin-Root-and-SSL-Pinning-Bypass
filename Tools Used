@@ -1,0 +1,8 @@
+    ADB (installed within Android SDK platform tools)
+    Jadx-Gui
+    APKTool
+    pyxamstore (https://github.com/jakev/pyxamstore)
+    dnSpy
+    zipalign (installed within Android SDK platform tools)
+    apksigner (installed within Android SDK platform tools)
+
